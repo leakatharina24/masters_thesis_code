@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun  5 09:17:51 2021
-
-@author: leade
+Model: Boynton et al., “Linear systems analysis of the fmri signal,” Neuroimage, vol. 62, no. 2, pp. 975–984, 2012.
+Code: Lea Demelius
 """
 import numpy as np
 from matplotlib import pyplot as plt

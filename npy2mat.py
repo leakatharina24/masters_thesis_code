@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 22 08:37:12 2021
-
-@author: demelius
+Author: Lea Demelius
 """
 
 import scipy.io

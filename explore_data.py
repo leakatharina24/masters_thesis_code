@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Dec 31 09:28:27 2021
-
-@author: leade
+Author: Lea Demelius
 """
 import numpy as np
 # import matplotlib

@@ -12,7 +12,7 @@ K         = 3;   % number of depths %6
 P.N       = neuronal_NVC_parameters(K);  % get default parameters (see inside the function)
 P.N.T     = 532;               % Total lenght of the response (in seconds)
 P.N.dt    = 0.1;
-[neuro, cbf]  = neuronal_NVC_model_from_AllenModel(P.N); % Generate the neuronal and cerebral blood flow response (CBF)
+[neuro, cbf]  = neuronal_NVC_model_from_BillehModel(P.N); % Generate the neuronal and cerebral blood flow response (CBF)
 
 time_axis = [0:P.N.dt:P.N.T-P.N.dt]; % time axis in seconds
 

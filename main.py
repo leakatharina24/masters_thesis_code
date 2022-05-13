@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun  5 09:35:31 2021
-
-@author: leade
+Author: Lea Demelius
 """
 from LinearTransformModel import LinearTransformModel
 from BalloonModel import BalloonModel

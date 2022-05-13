@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun  5 09:29:29 2021
-
-@author: leade
+Model: Buxton et al., “Modeling the hemodynamic response to brain activation,” Neuroimage, vol. 23, S220–S233, 2004
+Code: Lea Demelius
 """
 import numpy as np
 from matplotlib import pyplot as plt
